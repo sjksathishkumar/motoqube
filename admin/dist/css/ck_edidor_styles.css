@@ -1,0 +1,103 @@
+    .cke_button__save
+    {display: none !important;}
+    .cke_button__preview{display: none !important;}
+    .cke_button__print{display: none !important;}
+    .cke_button__templates{display: none !important;}
+    .cke_button__cut{display: none !important;}
+    .cke_button__copy{display: none !important;}
+    .cke_button__paste{display: none !important;}
+    .cke_button__pastetext{display: none !important;}
+    .cke_button__pastefromword {display: none !important;}
+    .cke_button__undo{display: none !important;}
+    .cke_button__redo{display: none !important;}
+    .cke_button__form{display: none !important;}
+    .cke_button__checkbox{display: none !important;}
+    .cke_button__radio{display: none !important;}
+    .cke_button__textfield{display: none !important;}
+    .cke_button__textarea{display: none !important;}
+    .cke_button__hiddenfield{display: none !important;}
+    .cke_button__strike{display: none !important;}
+    .cke_button__subscript{display: none !important;}
+    .cke_button__superscript{display: none !important;}
+    .cke_button__copyformatting{display: none !important;}
+    .cke_button__removeformat{display: none !important;}
+    .cke_button__outdent{display: none !important;}
+    .cke_button__blockquote{display: none !important;}
+    .cke_button__creatediv{display: none !important;}
+    .cke_button__flash{display: none !important;}
+    .cke_button__smiley{display: none !important;}
+    .cke_button__specialchar{display: none !important;}
+    .cke_button__pagebreak{display: none !important;}
+    .cke_button__iframe{display: none !important;}
+    .cke_button__button{display: none !important;}
+    .cke_button__imagebutton{display: none !important;}
+    .cke_button__maximize{display: none !important;}
+    .cke_button__showblocks{display: none !important;}
+    .cke_button__about{display: none !important;}
+    .cke_button__newpage{display: none !important;}
+    .cke_button__find{display: none !important;}
+    .cke_button__replace{display: none !important;}
+    .cke_button__selectall{display: none !important;}
+    .cke_button__newpage{display: none !important;}
+    .cke_button__scayt{display: none !important;}
+    .cke_button__select{display: none !important;}
+    .cke_button__indent{display: none !important;}
+    .cke_button__unlink{display: none !important;}
+    .cke_button__language{display: none !important;}
+    .cke_button__anchor{display: none !important;}
+    .cke_button__bidirtl{display: none !important;}
+    .cke_button__bidiltr{display: none !important;}
+    .cke_toolbar_break {
+    display: none !important;
+    clear: left;
+  }
+  .cke_toolbar_separator {
+    float: left;
+    display: none !important;
+  }
+  .cke_combo_text
+  {
+    width: 40px !important;
+  }
+  .cke_chrome {
+    border: 1px solid #ccc !important;
+    border-top: 0 !important;
+  }
+  .cke_top {
+    border-bottom: 1px solid #fff !important;
+    background: #43b2e2 !important;
+    color:#fff;
+    padding: 3px 8px 0px !important;
+  }
+  .cke_bottom {
+    display: none !important;
+  }
+  a.cke_button_on {
+    background: transparent !important;
+  }
+  .cke_button_label{
+    color:white !important;
+  }
+
+  .cke_button_icon {
+    filter: brightness(10) !important ;
+  }
+  .cke_button_arrow {
+    border-top: 3px solid #fbf3f3 !important;
+  }
+  .cke_combo_text {  
+    color: #fef9f9 !important ;  
+  }
+  .cke_combo_arrow {
+    border-top: 3px solid #fbf3f3 !important;
+  }
+  .cke_combo_on a.cke_combo_button, .cke_combo_off a.cke_combo_button:hover, .cke_combo_off a.cke_combo_button:focus, .cke_combo_off a.cke_combo_button:active, a.cke_button_off:hover, a.cke_button_off:focus, a.cke_button_off:active {
+      background: #bcbcbc !important;
+      border: 1px solid #bcbcbc !important;
+      cursor: pointer;
+  }
+/*  a.cke_button_off:hover, a.cke_button_off:focus, a.cke_button_off:active, .cke_combo_on a.cke_combo_button, .cke_combo_off a.cke_combo_button:hover, .cke_combo_off a.cke_combo_button:focus, .cke_combo_off a.cke_combo_button:active  {
+    background: #1ccbe0 !important;
+    border: 1px #1ccbe0 solid !important;
+    padding: 3px 5px;
+}*/
